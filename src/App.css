@@ -1,0 +1,40 @@
+.main{
+  background: #000;
+  color: white;
+}
+
+.section-img{
+  position: relative;
+
+}
+.hero-img{
+  width: 100%;
+}
+.text{
+  color: white;
+  text-align: justify;
+  margin-left: 30px;
+}
+
+.text > h1{
+  position: absolute;
+  top : 150px;
+}
+.text > p{
+  position: absolute;
+  top : 320px;
+}
+
+.programimage{
+  width: 100%;
+  position: relative;
+}
+.programimage2{
+  width: 100%;
+  position: relative;
+}
+
+
+.nav-link:hover{
+  color: rgb(223, 212, 0);
+}

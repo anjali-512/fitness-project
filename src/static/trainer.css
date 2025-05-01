@@ -1,0 +1,24 @@
+
+
+
+.section-img{
+    position: relative;
+}
+
+.programimage2{
+
+}
+.program-text{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+}
+.contact-text{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+}
+
+.contact-form{
+    background-image: linear-gradient(50deg , #101010, #88794D);
+}
